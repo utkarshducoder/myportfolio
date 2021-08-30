@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+:root{
+    --primary-color: black;
+
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 50px;
+    font-family: 'Pangolin', cursive;
+    background-color: var(--primary-color);
+}
+.navigation{
+    /*background-color: var(--primary-color);*/
+    padding-left: 2rem;
+}
+.navigation .nav-pills{
+    text-align: center;
+}
+.list-non-bullet{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.list-item-inline{
+    display: inline;   
+    list-style: none;
+    padding: 5rem;
+    text-align: center;
+   
+}
+.link{
+    color: white;
+}
+.head{
+    color: white;
+}
+.pa{
+    color: white;
+    padding: 1rem;
+    max-width: 800px;
+    margin: none;
+    line-height: 260%;
+}
+.floatRight{float:right;margin-left:20px}
+a:hover{
+    color: red;
+}
+
+.footer{
+    background-color: #111;
+    color: white;
+    text-align: center;
+    display: block;
+    
+     padding: 2rem;
+    
+     
+    }
+    i{
+        color: white;
+        font-size: 2rem;
+        text-shadow: 1px 2px violet;
+        padding: 0.5rem;
+    }
+    
+    .fa:hover{
+        color: violet;
+        
+    }
+    .link{
+        color: white;
+        text-decoration :none;
+        padding: 0.5rem 0.5rem;
+    
+    
+    }
+    .list-inline{
+       display: inline;
+       padding: 1rem 0rem;
+    
+    }
+    .footer ul{
+        padding-inline-start: 0px;
+    }
+    .weight{
+        font-weight: bold;
+        font-size: large;
+    }
+    
