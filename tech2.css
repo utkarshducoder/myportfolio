@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+:root{
+    --primary-color: white;
+
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    /*margin-left: 50px;*/
+    font-family: 'Pangolin', cursive;
+    background-color:#041129;
+    
+}
+.navigation{
+    background-color: var(--primary-color);
+    padding-left: 2rem;
+}
+
+.navigation{
+    background-color: #7C3AED;
+    color: white;
+    padding: 2rem;
+    border-bottom-left-radius: 2rem;
+}    
+nav{
+    display: block;
+}
+.navigation.nav-brand{
+    font-weight: bold;
+}
+.headings{
+    text-align: center;
+    padding-top: 1rem;
+    color: purple;
+}
+
+.header{
+    display: block;
+}
+.hero{
+    padding-top: 2rem; 
+    
+}
+.hero .hero-heading{
+    text-align: center;
+    padding-top: 1rem;
+    color: white;
+}
+.hero.hero-heading.spa{
+    color: var(--dark-gray);
+}
+.pp{
+    color: white;
+}
+.container-center{
+    max-width: 900px;
+ 
+    margin: auto;
+}
+.footer{
+    background-color: #7C3AED;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+footer{
+    display: block;
+}
+.footer.footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+div{
+    display: block;
+}
+.footer ul{
+    padding-inline-start: 0px;
+}
+.list-non-bullet{
+    list-style: none;
+}
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.5rem;
+    color: white;
+}
+/*.footer.link{
+    color: white;
+    
+}
+
