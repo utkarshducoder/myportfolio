@@ -16,6 +16,11 @@ body{
     /*background-color: var(--primary-color);*/
     padding-left: 2rem;
 }
+.img{
+    
+    width: 80%;
+    
+}
 .navigation .nav-pills{
     text-align: center;
 }
