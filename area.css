@@ -1,0 +1,53 @@
+.container{
+    text-align: center;
+    padding: 1rem;
+    background-color: green;
+    background-image: linear-gradient(to bottom right, blue, yellow)
+}
+.header{
+    padding: 1rem;
+}
+*{
+    padding:0rem;
+}
+.header a{
+    text-decoration: none;
+    padding: 1rem;
+    font-size:1.7rem;
+    color: #FBBF24;
+}
+.active{
+    font-weight: bolder;
+    border-radius: 1rem;
+    background-color: #9CA3AF;
+}
+h1{
+    font-weight: bolder;
+    padding: 2rem;
+    font-size: 3rem;
+    color: #FBBF24;
+        
+}
+label{
+    font-size:2.5rem;
+    color: #FBBF24;
+}
+input{
+    font-size:2rem;
+}
+button{
+    font-size: 2.2rem;
+    border-radius:12px;
+    cursor: pointer;
+    text-align: center;
+    padding:20px;
+    color: #F59E0B;
+    background-color: #1E3A8A;
+
+}
+div{
+    font-size: 1.8rem;
+}
+span{
+    color:  #1E3A8A;
+}
