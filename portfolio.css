@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+:root{
+    --primary-color: black;
+
+}
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 50px;
+    font-family: 'Pangolin', cursive;
+    background-color: var(--primary-color);
+}
+.navigation{
+    /*background-color: var(--primary-color);*/
+    padding-left: 2rem;
+}
+.navigation .nav-pills{
+    text-align: center;
+}
+.list-non-bullet{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+.list-item-inline{
+    display: inline;   
+    list-style: none;
+    padding: 5rem;
+    text-align: center;
+   
+}
+.link{
+    color: white;
+}
+.head{
+    color: white;
+}
+.big{
+    color: white;
+}
+.para{
+    color: white;
+    padding: 1rem;
+    max-width: 600px;
+    margin: none;
+    line-height: 260%;
+   
+}
+.linky{
+    color: white;
+    margin: none;
+}
+#right{
+    float: right;
+}
+
+a:hover{
+    color: red;
+}
