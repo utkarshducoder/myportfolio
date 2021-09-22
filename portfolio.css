@@ -145,3 +145,15 @@ i{
     font-weight: bold;
     font-size: large;
 }
+.link-secondary{
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+    display: inline;
+    max-width: 140px;
+    margin: 1rem 1 rem 1 rem 0rem ;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+
+}
