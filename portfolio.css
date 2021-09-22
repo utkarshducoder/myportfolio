@@ -148,7 +148,7 @@ i{
 .link-secondary{
     color: #7C3AED;
     border-radius: 0.5rem;
-    border: 1px solid var(--primary-color);
+    border: 1px solid #7C3AED;
     display: inline;
     max-width: 140px;
     margin: 1rem 1 rem 1 rem 0rem ;
